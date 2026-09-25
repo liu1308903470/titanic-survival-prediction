@@ -55,3 +55,10 @@ Extracted 13 features from raw data, including:
     ├── README.md               # Project documentation
     ├── analysis.py             # Full code with data processing and modeling
     └── requirements.txt        # Python dependencies
+
+## Contact
+- 📧 Email: 1308903470@qq.com
+- 💬 WeChat: 13674300178
+- 🐙 GitHub: [github.com/liu1308903470](https://github.com/liu1308903470)
+---
+*Created by Liu Shiqi · September 2026*
