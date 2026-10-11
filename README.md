@@ -49,7 +49,7 @@ Extracted 13 features from raw data, including:
 4. Run the script:
     ```bash
    python analysis.py
-5. The submission file will be generated at `./data/submission.csv`
+5. The output file will be generated at `./data/submission.csv`
 
 ## File Structure
     
